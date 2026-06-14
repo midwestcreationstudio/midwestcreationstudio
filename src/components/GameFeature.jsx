@@ -13,14 +13,6 @@ const games = [
     action: { text: 'Learn More', link: '/orien', disabled: false }
   },
   {
-    id: 'union-town-library',
-    title: 'Union Town Library',
-    description: "A warm, modern site for an independent neighborhood library in Brussels, Wisconsin, with hours, services, events, and visit info, all curated by hand.",
-    image: '/assets/union-town-library.png',
-    tags: ['Web', 'Community', 'Client Work'],
-    action: { text: 'Visit Site', link: 'https://union-town-library.netlify.app', disabled: false }
-  },
-  {
     id: 'runir',
     title: 'Runir',
     description: "Public market insight pages with clean, detailed cards for each name, scoring dealer positioning in the open, four times a day.",

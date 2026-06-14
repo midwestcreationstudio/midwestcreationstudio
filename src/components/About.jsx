@@ -20,8 +20,8 @@ const About = () => {
                         If you have something to build, let's talk.
                     </p>
                     <div className="contact-info">
-                        <a href="mailto:midwestcreationstudio@gmail.com" className="contact-link">
-                            midwestcreationstudio@gmail.com
+                        <a href="#contact" className="contact-link">
+                            Get in touch
                         </a>
                     </div>
                 </div>

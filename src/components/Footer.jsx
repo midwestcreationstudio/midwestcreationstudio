@@ -7,7 +7,7 @@ const Footer = () => {
         <p>&copy; {new Date().getFullYear()} Midwest Creation Studio LLC. All rights reserved.</p>
         <p className="location">Green Bay Area, Wisconsin</p>
         <div className="footer-links">
-          <a href="mailto:midwestcreationstudio@gmail.com" className="footer-link">Contact</a>
+          <a href="/#contact" className="footer-link">Contact</a>
           <span className="footer-sep">·</span>
           <a href="/privacy" className="footer-link">Privacy Policy</a>
         </div>

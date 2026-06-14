@@ -203,7 +203,7 @@ const Orien = () => {
             <footer className="orien-section" style={{ borderTop: '1px solid rgba(255,255,255,0.1)' }}>
                 <div className="orien-container" style={{ textAlign: 'center' }}>
                     <div style={{ marginBottom: '2rem', display: 'flex', justifyContent: 'center', gap: '2rem', flexWrap: 'wrap' }}>
-                        <a href="mailto:support@midwestcreationstudio.com" style={{ color: 'inherit', textDecoration: 'none', opacity: 0.8 }}>Support</a>
+                        <a href="/orien/support" style={{ color: 'inherit', textDecoration: 'none', opacity: 0.8 }}>Support</a>
                         <a href="/orien/privacy" style={{ color: 'inherit', textDecoration: 'none', opacity: 0.8 }}>Privacy Policy</a>
                         <a href="/orien/terms" style={{ color: 'inherit', textDecoration: 'none', opacity: 0.8 }}>Terms of Use</a>
                     </div>
