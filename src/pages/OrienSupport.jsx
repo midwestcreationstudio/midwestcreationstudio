@@ -18,8 +18,10 @@ const OrienSupport = () => {
 
                     <div style={{ marginTop: '3rem' }}>
                         <h2 className="orien-h2">Compatible iPhone Models</h2>
-                        <p className="orien-body">Orien is compatible with all iPhones featuring FaceID (TrueDepth camera system):</p>
+                        <p className="orien-body">Orien is compatible with iPhones featuring FaceID (TrueDepth camera system):</p>
                         <ul className="tech-list" style={{ columns: '2', columnGap: '2rem' }}>
+                            <li>iPhone 17, Pro, Pro Max & iPhone Air</li>
+                            <li>iPhone 16, Plus, Pro, Pro Max, 16e</li>
                             <li>iPhone 15, Plus, Pro, Pro Max</li>
                             <li>iPhone 14, Plus, Pro, Pro Max</li>
                             <li>iPhone 13, mini, Pro, Pro Max</li>
@@ -27,7 +29,6 @@ const OrienSupport = () => {
                             <li>iPhone 11, Pro, Pro Max</li>
                             <li>iPhone XS & XS Max</li>
                             <li>iPhone XR</li>
-                            <li>iPhone X</li>
                             <li>iPhone SE (2020, 2022)</li>
                         </ul>
 
@@ -59,7 +60,7 @@ const OrienSupport = () => {
 
                         <h2 className="orien-h2">Software Requirements</h2>
                         <ul className="tech-list">
-                            <li><strong>iOS/iPadOS:</strong> Version 13.0 or later (Recommended: 16.0+)</li>
+                            <li><strong>iOS/iPadOS:</strong> Version 17.0 or later</li>
                             <li><strong>Permissions:</strong> Orien requires access to the <strong>Camera</strong> to perform face and eye tracking. No video or image data is ever recorded or transmitted off the device.</li>
                         </ul>
 

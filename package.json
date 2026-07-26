@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build && cp dist/index.html dist/404.html",
+    "build": "vite build && cp dist/index.html dist/404.html && mkdir -p dist/orien && cp dist/index.html dist/orien/index.html && cp dist/index.html dist/orien/terms.html",
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
