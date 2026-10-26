@@ -52,7 +52,7 @@ const Orien = () => {
                                 <strong>Designed for accessibility. Built for independence.</strong>
                             </p>
                             <div className="cta-group">
-                                <a href="https://apple.co/orien" target="_blank" rel="noopener noreferrer" className="app-store-button">
+                                <a href="https://apps.apple.com/app/id6756767546" target="_blank" rel="noopener noreferrer" className="app-store-button">
                                     <img src={badgeSrc} alt="Download on the App Store" style={{ height: '44px' }} />
                                 </a>
                                 <div className="privacy-shield" style={{ marginTop: '1rem', display: 'flex', alignItems: 'center', gap: '8px', opacity: 0.8 }}>
@@ -193,7 +193,7 @@ const Orien = () => {
                     <p className="orien-body" style={{ maxWidth: '600px', margin: '0 auto 2rem' }}>
                         Orien is free to use and designed to make hands-free interaction more accessible to everyone who needs it.
                     </p>
-                    <a href="https://apple.co/orien" target="_blank" rel="noopener noreferrer">
+                    <a href="https://apps.apple.com/app/id6756767546" target="_blank" rel="noopener noreferrer">
                         <img src={badgeSrc} alt="Download on the App Store" style={{ height: '54px' }} />
                     </a>
                 </div>
