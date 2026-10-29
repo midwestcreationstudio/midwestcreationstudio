@@ -10,7 +10,7 @@ const games = [
     description: "The first 100% hands-free AAC platform for individuals with ALS and motor impairments. No head tracking required. Just your eyes.",
     image: orienIcon,
     tags: ['Accessibility', 'iOS', 'True Gaze'],
-    action: { text: 'Learn More', link: '/orien', disabled: false }
+    action: { text: 'Learn More', link: 'https://speakwithorien.com', disabled: false }
   },
   {
     id: 'runir',
